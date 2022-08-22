@@ -11,7 +11,9 @@ The ffverse is a set of packages dedicated to data and analysis of fantasy footb
 
 ## Support
 
-In most cases you should reach out to us on the nflverse Discord: [![nflverse
+In most cases you should reach out to us on the nflverse Discord: 
+
+[![nflverse
 support](https://img.shields.io/discord/789805604076126219?color=7289da&label=nflverse%20support&logo=discord&logoColor=fff&style=flat-square)](https://discord.com/invite/5Er2FBnnQa)
 
 ## Related Projects
