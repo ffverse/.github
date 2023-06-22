@@ -5,7 +5,7 @@ The ffverse is a set of packages dedicated to data and analysis of fantasy footb
 ## R Packages
 
 - [`{ffscrapr}`](https://github.com/ffverse/ffscrapr) helps access various Fantasy Football APIs (currently MFL, Sleeper, Fleaflicker, and ESPN)
-- [`{ffsimulator}`](https://github.com/ffverse/ffimulator) helps simulate fantasy football seasons
+- [`{ffsimulator}`](https://github.com/ffverse/ffsimulator) helps simulate fantasy football seasons
 - [`{ffpros}`](https://github.com/ffverse/ffpros) helps scrape FantasyPros.com by handling rate-limiting/caching/parsing and returning tidy dataframes which can be easily connected to other data sources
 - [`{ffopportunity}`](https://github.com/ffverse/ffopportunity) helps build Expected Fantasy Points by preprocessing and applying an xgboost model to nflverse play-by-play data
 
